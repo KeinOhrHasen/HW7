@@ -1,6 +1,7 @@
 # HW7 TypeScript project
 
 ## Instalation
-npm install
-npm run start
-localhost:4040
+npm install<br />
+npm run start<br />
+
+Open page on localhost:4040 in your browser
