@@ -1,7 +1,7 @@
-# HW7 TypeScript project
+## ts-bsa-2017
+TypeScript project for BSA-2017
 
 ## Instalation
 npm install<br />
 npm run start<br />
-
-Open page on localhost:4040 in your browser
+localhost:4040
